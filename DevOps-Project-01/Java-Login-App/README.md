@@ -35,6 +35,3 @@ SELECT * FROM Employee;
 
 ## Describe Table schema ##
 DESCRIBE Employee;
-
-
-![](https://imgur.com/ZdiaMeo.gif)
